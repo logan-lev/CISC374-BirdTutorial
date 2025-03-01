@@ -1425,6 +1425,7 @@ MonoBehaviour:
   frequency: 1
   audioSource: {fileID: 1845070254}
   deathSound: {fileID: 8300000, guid: 0b4107454c2854703b2ad11de8eb396a, type: 3}
+  scoreSound: {fileID: 8300000, guid: 852cca63e68ea487fb74584470221342, type: 3}
 --- !u!4 &1845070253
 Transform:
   m_ObjectHideFlags: 0
